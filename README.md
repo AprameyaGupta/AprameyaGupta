@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AprameyaGupta
-- 👀 I’m interested in solving problems using Maths.
+- 👀 I’m interested in Software Development roles.
 - 🌱 I’m currently learning MERN Stack and Machine Learning.
 - 💞️ I’m looking to collaborate on any challenging opportunity.
 - 📫 Anyone willing to connect can reach me out @ aprameyagupta27@gmail.com.
