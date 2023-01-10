@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AprameyaGupta
 - 👀 I’m interested in Software Development roles.
-- 🌱 I’m currently learning MERN Stack and Machine Learning.
+- 🌱 I’m currently working as Java Full Stack Developer @TCS Digital.
 - 💞️ I’m looking to collaborate on any challenging opportunity.
 - 📫 Anyone willing to connect can reach me out @ aprameyagupta27@gmail.com.
 
