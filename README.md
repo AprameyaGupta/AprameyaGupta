@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AprameyaGupta
 - 👀 I’m interested in Software Development roles.
-- 🌱 I’m currently working as Java Full Stack Developer @TCS Digital.
+- 🌱 I’m currently working as Specialist Programmer @Infosys Limited.
 - 💞️ I’m looking to collaborate on any challenging opportunity.
 - 📫 Anyone willing to connect can reach out @ aprameyagupta27@gmail.com.
 
